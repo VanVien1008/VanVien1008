@@ -15,7 +15,7 @@
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
   <a href="https://www.instagram.com/duongvan_vien/" alt="Email">
-    <img src="https://icons8.com/icon/32323/instagram.png"/>
+    <img src="https://icons8.com/icon/108646/instagram"/>
   </a>
 </p>
 
