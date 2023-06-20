@@ -15,7 +15,7 @@
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
   <a href="https://www.instagram.com/duongvan_vien/" alt="Instagram">
-    <img src="https://img.icons8.com/icon/Xy10Jcu1L2Su/instagram"/>
+    <img src="https://img.icons8.com/icon/Xy10Jcu1L2Su/instagram.png"/>
   </a>
 </p>
 
