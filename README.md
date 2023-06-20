@@ -19,7 +19,7 @@
   </a>
 </p>
 
-## Skills:
+## Technology and tools in use:
 <p align="center">
 
 </p>
