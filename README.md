@@ -8,10 +8,10 @@
 ## 📫 How to reach me:
 
 <p align="center">
-  <a href="[https://www.facebook.com/01.tien](https://www.facebook.com/profile.php?id=100058757625128)" alt="Facebook">
+  <a href="https://www.facebook.com/01.tien](https://www.facebook.com/profile.php?id=100058757625128" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
-  <a href="[https://github.com/TienNHM](https://github.com/VanVien1008)" alt="Github">
+  <a href="https://github.com/TienNHM](https://github.com/VanVien1008" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
   <a href="[mailto:tiennhm.it@gmail.com](https://www.instagram.com/duongvan_vien/)" alt="Email">
