@@ -4,9 +4,9 @@
   <h3 align="center">I'm a student of: Post and Telecommunications Institute of Technology in Ho Chi Minh City. </h3>
 </p>
 <br />
-</p>
+
 ## Technology and tools in use:
-<p align="center">
+<p align="center"></p>
 
 ## 📫 How to reach me:
 
