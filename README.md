@@ -4,8 +4,7 @@
   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
 </p>
 
-<br align="center">
-- ✍ I'm a student of: Post and Telecommunications Institute of Technology in Ho Chi Minh City.
+<br align="center">- ✍ I'm a student of: Post and Telecommunications Institute of Technology in Ho Chi Minh City.
 
 <br />
 
